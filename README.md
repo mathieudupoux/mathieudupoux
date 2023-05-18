@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mathieu Dupoux, a 3rd-year French student learning computer science at [ENSEIRB-Matméca engineering school](https://enseirb-matmeca.bordeaux-inp.fr/en).
+- 👋 Hi, I’m Mathieu Dupoux, a 1st-year Master French student learning computer science at [ENSEIRB-Matméca engineering school](https://enseirb-matmeca.bordeaux-inp.fr/en).
 - 👀 I’m interested in computer science and especially in cybersecurity which I would like to work in.
 - 🌱 I’m currently learning programming skills in C and JS.
-- 🧑‍💼 I'm also working in the ID departement of the junior enterprise Aquitaine Électronique Informatique.
+- 🧑‍💼 I'm have also worked in the ID departement of the junior enterprise Aquitaine Électronique Informatique in within I developped a new ERP in TypeScript with VueJS, ExpressJS, Sequelize...
 - 📫 How to reach me :
   - LinkedIn : [mathieudupoux](https://www.linkedin.com/in/mathieudupoux/)
   - Twitter : [@dupoux_mathieu](https://twitter.com/dupoux_mathieu)
