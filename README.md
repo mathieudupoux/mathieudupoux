@@ -4,7 +4,6 @@
 - 🧑‍💼 I'm have also worked in the ID departement of the junior enterprise Aquitaine Électronique Informatique in within I developped a new ERP in TypeScript with VueJS, ExpressJS, Sequelize...
 - 📫 How to reach me :
   - LinkedIn : [mathieudupoux](https://www.linkedin.com/in/mathieudupoux/)
-  - Twitter : [@dupoux_mathieu](https://twitter.com/dupoux_mathieu)
   - Website : 🚧 In construction 🚧
 
 <!---
